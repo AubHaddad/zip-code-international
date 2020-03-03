@@ -1,0 +1,21 @@
+{
+  "name": "zip-code-international",
+  "version": "1.2.0",
+  "description": "get zipCodes from cities adn cities from zip codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AubHaddad/zip-code-international.git"
+  },
+  "keywords": [
+    "ZipCodes",
+    "zip code international",
+    "city",
+    "country"
+  ],
+  "author": "Ayoub HAD-DAD",
+  "license": "Apache License 2.0"
+}
